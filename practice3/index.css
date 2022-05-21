@@ -1,0 +1,50 @@
+
+.container{
+    text-align: center;
+    margin-top: 15%;
+    
+}
+.card{
+    background-color: white;
+    padding: 15px;
+    width: 30%;
+    margin-left: 34%;
+    border-radius: 12px;
+    box-shadow: 2px 9px 24px 0px rgba(0,0,0,0.75);
+    
+}
+.card img{
+    height: 100px;
+    width: 100px;
+    border: solid 1px aqua;
+    border-radius: 60%;
+
+}
+p{
+    font-family: monospace;
+}
+.container h3{
+    font-weight: bolder;
+    text-underline-offset: 2;
+}
+ .btn-next{
+     background-color: transparent;
+    padding: 5px 14px;
+    border: none;
+    font-size: larger;
+    font-size: xx-large;
+    color: aqua;
+}
+.btn-prev{
+    background-color: transparent;
+    padding: 5px 14px;
+    border: none;
+    font-size: xx-large;
+    color: aqua;
+}
+.buttons{
+    margin-bottom: 5px;
+}
+#job{
+    color: aqua;
+}
