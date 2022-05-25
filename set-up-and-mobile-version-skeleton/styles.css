@@ -1,0 +1,36 @@
+.nav {
+  margin: 0px;
+  background-color: #3E3C3C;
+  height:72px ;
+  display: flex;
+  justify-content: space-around;
+}
+.nav h3 {
+  font-size: 700px;
+  padding-left: 20px;
+  color: white;
+  font-size: 20px;
+}
+ul {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: space-around;
+}
+
+ul li {
+  font-size: 15px;
+  padding: 10px;
+  list-style: none;
+  color: white;
+  font-weight: 600px;
+}
+
+ul li a {
+  text-decoration: none;
+  color:white;
+}
+
+body {
+  margin: 0px;
+}
